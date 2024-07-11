@@ -1,1 +1,3 @@
-remote_theme: CuratedHub/jekyllgitbook
+remote_theme: CuratedHub/gitbook
+plugins:
+  - jekyll-remote-theme
