@@ -1,3 +1,5 @@
-remote_theme: CuratedHub/gitbook
 plugins:
   - jekyll-remote-theme
+
+remote_theme: CuratedHub/gitbook
+
