@@ -60,7 +60,7 @@ Patriot Bank NA's privacy policy is worded in a very anti-privacy way.
 ![image](https://github.com/CuratedHub/CuratedHub/assets/174886508/49cfbd78-435c-474a-b630-763b075850ab)
 
 In other words, they are willing to limit sharing of your personal information when they 
-are required to, and only then. 
+are required to, and only then. Though they claim not to share if they don't  have to.[^2]
 
 This is why if you use a service such as this, we recommend using virtual cards from a bank directly if
 possible, and realizing that it will still in no way provide anonymity. 
@@ -71,3 +71,4 @@ possible, and realizing that it will still in no way provide anonymity.
 [^1]: https://www.justice.gov/jm/civil-resource-manual-72-principles-contract-interpretation, "An interpretation will be rejected if it leaves 
 portions of the contract language useless, inexplicable, inoperative, meaningless, or superfluous (Ball State Univ. v. United States, 488 F.2d 1014 (Ct. Cl. 1973); 
 Blake Constr. Co. Inc. v. United States, 987 F.2d 743, 746-47 (Fed. Cir. 1993). 
+[^2]: https://bankpatriot.com/PatriotBank/media/Documents/Privacy_Policy.pdf
