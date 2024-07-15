@@ -12,7 +12,7 @@
 ## DNS 
 We recommend the simple approach of Unbound + DNSCrypt-Proxy with anonymized DNS relays. 
 You can add a [blocklist](https://github.com/CuratedHub/CuratedHub/blob/main/lists/domain_blacklists.md) to both the DNS and a client or browser ad-blocker.
-[Setting up on Windows 10/11](https://github.com/CuratedHub/CuratedHub/blob/main/lists/DNS.md)
+[Setting up on Windows 10/11](lists/DNS.md)
 
 
 ## Advertising/Malware Blocklists  
