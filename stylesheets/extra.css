@@ -1,0 +1,105 @@
+[data-md-color-scheme="absoluteblack"] {
+	/* testing color:   #FF0000;  #80C484; */
+  --md-primary-fg-color:			#121313;	/* header bg */
+  --md-primary-bg-color:			#FCF8D4;	/* header text/icon color */
+  --md-accent-fg-color:				#3A85D0;		/* link hover color */
+  --md-accent-fg-color--transparent:#FF0000;
+  --md-accent-bg-color:				#FF0000;
+  --md-accent-bg-color--light:		#FF0000;
+  --md-default-bg-color:  			#000000;	/* body background */
+  --md-default-bg-color--light:		#FF0000;
+  --md-default-bg-color--lighter:	#FF0000;
+  --md-default-bg-color--lightest:	#FF0000;
+  --md-default-fg-color--light:		#FFFFFF;	/* titles */
+  --md-default-fg-color--lighter:	#337736;	/* scroll boxes and block quote edge */
+  --md-default-fg-color--lightest:	#FFFFFF;	/* horizontal line */
+  --md-typeset-color:				#FCF8d4;	/* text color */ 
+  --md-typeset-a-color:				#66A2E1;	/* link color (before hover) */
+  --md-typeset-mark-color:			#FF0000;
+  --md-typeset-kbd-color:			#3A0F54;    /* command box (box around command like ctrl + v) inner color */
+  --md-typeset-kbd-accent-color:	#3A0F54;	/* command box middle color */
+  --md-typeset-kbd-border-color:	#3A0F54;	/* command box outer color */ 
+  --md-default-fg-color:			#EEEEEE;	/* command box text */
+  --md-typeset-table-color:			#80C484;	/* table border */
+  --md-typeset-table-color--light:	#337736;	/* table hover highlight */
+  --md-admonition-fg-color:			#EEEEEE;	/* title of admonition */
+  --md-admonition-bg-color:			#000000;	/* background box of admonition */
+  --md-footer-bg-color:				#121313;	/* footer bg */
+  --md-footer-bg-color--dark:		#121313;	/* footer bg */
+  --md-code-fg-color:				#EEEEEE;	/* code block text */
+  --md-code-bg-color:				#171717;	/* code block bg */
+  --md-code-hl-color:				#EEEEEE;
+  --md-code-hl-number-color:		#EEEEEE; 
+  --md-code-hl-special-color:		#EEEEEE;
+  --md-code-hl-function-color:		#EEEEEE;
+  --md-code-hl-constant-color:		#EEEEEE;
+  --md-code-hl-keyword-color:		#EEEEEE;
+  --md-code-hl-string-color:		#EEEEEE;
+  --md-code-hl-name-color:			#EEEEEE;
+  --md-code-hl-operator-color:		#EEEEEE;
+  --md-code-hl-punctuation-color:	#EEEEEE;
+  --md-code-hl-comment-color:		#EEEEEE;
+  --md-code-hl-generic-color:		#EEEEEE;
+  --md-code-hl-variable-color:		#EEEEEE;
+  --md-shadow-z1:					0 0.2rem 0.5rem #0003,0 0 0.05rem #0000001a;
+  --md-shadow-z2:					0 0.2rem 0.5rem #0000004d,0 0 0.05rem #00000040;
+  --md-shadow-z3:					0 0.2rem 0.5rem #0006,0 0 0.05rem #00000059
+  --div.md-header__topic:				#FF0000;
+
+/* change headings individually */
+.md-typeset h1 {
+    color: #F8CD82;
+}
+
+.md-typeset h2 {
+    color: #F8CD82;
+}
+
+.md-typeset h3 {
+    color: #F8CD82;
+}
+
+.md-typeset h4 {
+    color: #F8CD82;
+}
+
+.md-typeset h5 {
+    color: #F8CD82;
+}
+
+.md-typeset h6 {
+    color: #F8CD82;
+}
+ 
+  
+  	/* testing color:   #FF0000;  #80C484; */
+} 
+.md-nav__source{display: none;}
+
+
+
+
+
+/* sidebar table of contents color */ 
+@media screen and (max-width: 76.1875em) {
+    .md-nav--primary .md-nav__title {
+        background-color: #000000;
+        color: #ffebae;
+	}
+	
+	
+
+/* These worked on "inspect" on firefox, but not here
+ .md-footer {
+    max-height: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+*/ 
+
+
+
+/* Hides ToC */
+.md-sidebar--secondary {
+  display: none;
+}
