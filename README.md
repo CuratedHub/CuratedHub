@@ -1,3 +1,3 @@
 # CuratedHub
 
-View the site: [CuratedHub](curatedhub.github.io/CuratedHub/)
+View the site: [CuratedHub](https://curatedhub.github.io/CuratedHub/)
